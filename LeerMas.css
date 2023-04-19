@@ -1,0 +1,26 @@
+
+/*Esto es para alinear el gif*/
+
+.Alinear_Flex{
+	display: flex;
+	justify-content: center;
+	padding: 6%;
+
+}
+
+/*Aca termina*/
+
+
+
+
+.Alinear_Flex{
+	display: flex;
+	justify-content: center;
+	padding: 6%;
+}
+
+.contenido2{
+    padding: 6%;
+    text-align: center;
+    justify-content: center;
+}
